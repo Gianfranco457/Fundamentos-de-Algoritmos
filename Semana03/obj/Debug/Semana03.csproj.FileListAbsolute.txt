@@ -1,0 +1,7 @@
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\bin\Debug\Semana03.exe.config
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\bin\Debug\Semana03.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\bin\Debug\Semana03.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\obj\Debug\Semana03.csproj.AssemblyReference.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\obj\Debug\Semana03.csproj.CoreCompileInputs.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\obj\Debug\Semana03.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana03\obj\Debug\Semana03.pdb
