@@ -10,7 +10,7 @@ namespace Semana03
     {
         static void Main(string[] args)
         {
-            ejercicio5();
+            ejercicio6();
             Console.ReadKey();
         }
 
@@ -38,6 +38,7 @@ namespace Semana03
 
             Console.WriteLine("\"" + nombre + "\"");
         }
+
         static void ejercicio4()
         {
             int num1, num2;
@@ -69,6 +70,23 @@ namespace Semana03
 
             Console.WriteLine($"El Área es : {area}");
             Console.ReadKey();  
+        }
+
+        static void ejercicio6()
+        {
+            double n1, n2, n3, promedio;
+            
+            Console.WriteLine("Escriba el primer numero decimal: ");
+            n1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Escriba el segundo numero decimal: ");
+            n2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Escriba el tercer numero decimal: ");
+            n3 = double.Parse(Console.ReadLine());
+
+            promedio = (n1 + n2 + n3) / 3;
+
+            Console.WriteLine("Promedio: " + promedio.ToString("F2"));
+            Console.ReadKey();
         }
     }
 }
