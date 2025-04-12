@@ -58,7 +58,17 @@ namespace Semana03
 
         static void ejercicio5()
         {
+            double bas, alt, area;
 
+            Console.WriteLine("Ingrese la base: ");
+            bas = double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la altura: ");
+            alt = double.Parse(Console.ReadLine());
+
+            area = (bas * alt)/2;
+
+            Console.WriteLine($"El Área es : {area}");
+            Console.ReadKey();  
         }
     }
 }
