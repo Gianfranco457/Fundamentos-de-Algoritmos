@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 
 namespace Semana03
 {
@@ -10,7 +11,7 @@ namespace Semana03
     {
         static void Main(string[] args)
         {
-            ejercicio6();
+            ejercicio7();
             Console.ReadKey();
         }
 
@@ -61,9 +62,9 @@ namespace Semana03
         {
             double bas, alt, area;
 
-            Console.WriteLine("Ingrese la base: ");
+            Console.Write("Ingrese la base: ");
             bas = double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la altura: ");
+            Console.Write("Ingrese la altura: ");
             alt = double.Parse(Console.ReadLine());
 
             area = (bas * alt)/2;
@@ -76,17 +77,29 @@ namespace Semana03
         {
             double n1, n2, n3, promedio;
             
-            Console.WriteLine("Escriba el primer numero decimal: ");
+            Console.Write("Escriba el primer numero decimal: ");
             n1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el segundo numero decimal: ");
+            Console.Write("Escriba el segundo numero decimal: ");
             n2 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el tercer numero decimal: ");
+            Console.Write("Escriba el tercer numero decimal: ");
             n3 = double.Parse(Console.ReadLine());
 
             promedio = (n1 + n2 + n3) / 3;
 
             Console.WriteLine("Promedio: " + promedio.ToString("F2"));
             Console.ReadKey();
+        }
+
+        static void ejercicio7()
+        {
+            double radio, area;
+
+            Console.Write("Ingrese el radio del circulo: ");
+            radio = double.Parse(Console.ReadLine());
+
+            area = 3.14 * (radio * radio);
+
+            Console.WriteLine("El área del cículo es: " + area + " m2 ");
         }
     }
 }
