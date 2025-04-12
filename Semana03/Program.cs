@@ -10,7 +10,7 @@ namespace Semana03
     {
         static void Main(string[] args)
         {
-            ejercicio4();
+            ejercicio5();
             Console.ReadKey();
         }
 
@@ -28,6 +28,16 @@ namespace Semana03
         {
             Console.WriteLine("Gianfranco\n19\nIng. Sistemas");
         }
+
+        static void ejercicio3()
+        {
+            string nombre;
+
+            Console.Write("Ingrese su nombre: ");
+            nombre = Console.ReadLine();
+
+            Console.WriteLine("\"" + nombre + "\"");
+        }
         static void ejercicio4()
         {
             int num1, num2;
@@ -44,6 +54,11 @@ namespace Semana03
             Console.WriteLine("La multiplicación es: " + (num1 * num2));
             Console.WriteLine("La división es: " + (num1 / num2));
             Console.WriteLine("El módulo es: " + (num1 % num2));
+        }
+
+        static void ejercicio5()
+        {
+
         }
     }
 }
