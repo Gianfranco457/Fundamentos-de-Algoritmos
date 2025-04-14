@@ -11,7 +11,7 @@ namespace Semana03
     {
         static void Main(string[] args)
         {
-            ejercicio7();
+            ejercicio8();
             Console.ReadKey();
         }
 
@@ -32,12 +32,7 @@ namespace Semana03
 
         static void ejercicio3()
         {
-            string nombre;
-
-            Console.Write("Ingrese su nombre: ");
-            nombre = Console.ReadLine();
-
-            Console.WriteLine("\"" + nombre + "\"");
+            Console.WriteLine("\"Gianfranco\"");
         }
 
         static void ejercicio4()
@@ -86,7 +81,7 @@ namespace Semana03
 
             promedio = (n1 + n2 + n3) / 3;
 
-            Console.WriteLine("Promedio: " + promedio.ToString("F2"));
+            Console.WriteLine("\nEl promedio es: " + Math.Round(promedio,2));
             Console.ReadKey();
         }
 
@@ -97,9 +92,19 @@ namespace Semana03
             Console.Write("Ingrese el radio del circulo: ");
             radio = double.Parse(Console.ReadLine());
 
-            area = 3.14 * (radio * radio);
+            area = Math.PI * Math.Pow(radio, 2); ;
 
             Console.WriteLine("El área del cículo es: " + area + " m2 ");
+        }
+        static void ejercicio8()
+        {
+            double num1;
+
+            Console.Write("Ingrese un numero decimal: ");
+            num1= double.Parse(Console.ReadLine());
+
+            Console.WriteLine("\nLa raiz cuadrad es: "+Math.Sqrt(num1));
+            Console.WriteLine("La potencia a 3 es: " + Math.Pow(num1, 3));
         }
     }
 }
