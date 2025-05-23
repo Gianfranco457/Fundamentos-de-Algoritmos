@@ -1,0 +1,6 @@
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\bin\Debug\Biblioteca.dll
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\obj\Debug\Biblioteca.dll
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Biblioteca\obj\Debug\Biblioteca.pdb

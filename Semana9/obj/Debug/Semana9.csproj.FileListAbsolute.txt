@@ -1,0 +1,10 @@
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\bin\Debug\Semana9.exe.config
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\bin\Debug\Semana9.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\bin\Debug\Semana9.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\bin\Debug\Biblioteca.dll
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\bin\Debug\Biblioteca.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\obj\Debug\Semana9.csproj.AssemblyReference.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\obj\Debug\Semana9.csproj.CoreCompileInputs.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\obj\Debug\Semana9.csproj.Up2Date
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\obj\Debug\Semana9.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana9\obj\Debug\Semana9.pdb
