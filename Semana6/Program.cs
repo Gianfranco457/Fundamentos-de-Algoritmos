@@ -10,7 +10,7 @@ namespace Semana6
     {
         static void Main(string[] args)
         {
-            ejer7();
+            ejer2();
             Console.ReadKey();
         }
 
