@@ -1,0 +1,7 @@
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\bin\Debug\Semana14.exe.config
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\bin\Debug\Semana14.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\bin\Debug\Semana14.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\obj\Debug\Semana14.csproj.AssemblyReference.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\obj\Debug\Semana14.csproj.CoreCompileInputs.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\obj\Debug\Semana14.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Semana14\obj\Debug\Semana14.pdb
