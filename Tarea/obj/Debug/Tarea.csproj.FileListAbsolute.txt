@@ -1,0 +1,7 @@
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\bin\Debug\Tarea.exe.config
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\bin\Debug\Tarea.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\bin\Debug\Tarea.pdb
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\obj\Debug\Tarea.exe
+D:\UNIVERISDAD\Fundamentos\Fundamentos de Algortimos\Tarea\obj\Debug\Tarea.pdb
